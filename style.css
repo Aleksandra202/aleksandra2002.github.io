@@ -1,0 +1,218 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#valanta {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid grey;
+}
+#uaru {
+    width: 100px;
+    height: 50px;
+    font-size: 10px;
+    position: relative;
+    top: -4px;
+}
+#groshi {
+    width: 100px;
+    height: 50px;
+    font-size: 10px;
+    position: relative;
+    top: -4px;
+}
+#fiy{
+    width: 100px;
+    display: flex;
+}
+
+#nomer {
+    font-size: 10px;
+    width: 150px;
+}
+#maistra {
+    font-size: 13px;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#tur{
+    font-size: 13px;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#menu {
+    height: 70px;
+ position: relative;
+ top: 24px;
+}
+#menu1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+#mask {
+  height: 490px;
+   background: linear-gradient(to bottom, rgba(255, 255, 255, 0.027), rgba(0, 0, 0, 0.596)), url(./Mask\ Group.png);
+}
+.eur2{
+    border: 2px solid white;
+    color: white;
+    width: 249px;
+    font-size: 24px;
+    position: absolute;
+width: 205px;
+height: 32px;
+left: 222px;
+top: 280px;
+}
+.eco {
+    position: absolute;
+width: 725px;
+height: 102px;
+left: 195px;
+top: 335px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 55px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+#podrobneu{
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 200px;
+    top: 477px;
+    
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 2px;
+}
+.podrobneu {
+ 
+position: relative;
+top: 20px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#turoperator{
+    height: 250px;
+    background: #F8F8F8;
+}
+
+.tyrepirator{
+    position: absolute;
+width: 624px;
+height: 72px;
+left: 198px;
+top: 690px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+color: #1D1D1D;
+}
+
+.mur{
+    position: absolute;
+width: 335px;
+height: 28px;
+left: 198px;
+top: 777px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: #777777;
+}
+#pred{
+    position: absolute;
+width: 270px;
+height: 50px;
+left: 198px;
+top: 825px;
+background: #BDBDBD;
+border-radius: 2px;
+}
+.predlogaem{
+    position: relative;
+width: 182px;
+height: 20px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+#cons {
+    position: absolute;
+width: 220px;
+height: 50px;
+left: 498px;
+top: 825px;
+
+border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 2px;
+}
+.consyltant {
+    position: absolute;
+width: 122px;
+height: 20px;
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #969696;
+}
+
+#text1{
+position: relative;
+width: 370px;
+height: 198px;
+left: 910px;
+top: 43px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 66px;
+color: #3D3D3D;
+}
+.heart {
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 854px;
+    top: 691px;
+font-size: 30px;
+border-radius: 50%;
+border: 1.2px dashed #969696;
+box-sizing: border-box;
+}
